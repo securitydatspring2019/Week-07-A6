@@ -14,4 +14,7 @@ This week we will go introduce:
 [slides](https://docs.google.com/presentation/d/14gvQtyeLm48vGK2MVPeLC16aOmn32-RHzzy-O2df-n0/edit?usp=sharing)
 
 ## Exercises
+TBD
+<!--
 [A6-A9-exercises](https://docs.google.com/document/d/102KrU8kMEeNwAqWJqFjqwjkN0BxtRTugyIqDbt2-zA0/edit?usp=sharing)
+-->
