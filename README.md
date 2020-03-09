@@ -11,8 +11,9 @@ This week we will go introduce:
 - Read [A9-Components with known vulnerabilities](https://www.owasp.org/index.php/Top_10-2017_A9-Using_Components_with_Known_Vulnerabilities)
 
 ## Slides
+<!--
 [slides](https://docs.google.com/presentation/d/14gvQtyeLm48vGK2MVPeLC16aOmn32-RHzzy-O2df-n0/edit?usp=sharing)
-
+-->
 ## Exercises
 TBD
 <!--
